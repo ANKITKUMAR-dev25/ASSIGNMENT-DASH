@@ -199,10 +199,10 @@ Pull requests are welcome!
 
 ## 👨‍💻 **Author**
 
-**[Your Name]**
-📧 [[8250136105a@gmail.com]()]
-🔗 [LinkedIn]((https://www.linkedin.com/in/ankit-kumar-b1041122b/))
-💻 [GitHub]((https://github.com/ANKITKUMAR-dev25))
+**[Ankit Kumar]**
+📧 [[8250136105a@gmail.com]]
+🔗 [LinkedIn]([(https://www.linkedin.com/in/ankit-kumar-b1041122b/)])
+💻 [GitHub]([(https://github.com/ANKITKUMAR-dev25)])
 
 ---
 
