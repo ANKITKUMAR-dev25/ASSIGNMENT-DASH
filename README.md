@@ -96,7 +96,7 @@ assignment-dashboard/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/assignment-dashboard.git
+   git clone [(https://github.com/ANKITKUMAR-dev25/ASSIGNMENT-DASH.git)]
    cd assignment-dashboard
    ```
 
@@ -201,8 +201,6 @@ Pull requests are welcome!
 
 **[Ankit Kumar]**
 📧 [[8250136105a@gmail.com]]
-🔗 [LinkedIn]([(https://www.linkedin.com/in/ankit-kumar-b1041122b/)])
-💻 [GitHub]([(https://github.com/ANKITKUMAR-dev25)])
 
 ---
 
