@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global styles for modern aesthetics */
+body {
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  background-color: #f7f9fc;
+}
+
+/* Custom class for the main dashboard content area */
+.dashboard-content {
+    min-height: calc(100vh - 80px); 
+}
