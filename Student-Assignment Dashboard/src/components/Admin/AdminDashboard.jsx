@@ -32,13 +32,13 @@ export const AdminDashboard = () => {
       <h1 className="text-4xl font-extrabold mb-2 text-gray-800">👑 Admin Control Panel</h1>
       <p className="text-gray-500 mb-8">Manage assignments, track submissions, and view class performance.</p>
       
-      {/* --- Section 1: Create Assignment Action --- */}
+      {/* --- Section 1: CREATE NEW ASSIGNMENT BUTTON (Cyan Update Applied) --- */}
       <div className="flex justify-between items-center mb-10 bg-indigo-500 p-6 rounded-xl shadow-lg text-white">
         <div className="text-2xl font-semibold">
             Ready to publish a new challenge?
         </div>
         <Link to="/admin/new">
-          <Button className="bg-white text-indigo-700 hover:bg-gray-100 font-extrabold py-3 px-8 text-lg shadow-2xl">
+          <Button className="bg-cyan-400 text-gray-900 hover:bg-cyan-500 font-extrabold py-3 px-8 text-lg shadow-2xl">
             + Create New Assignment
           </Button>
         </Link>
@@ -74,7 +74,6 @@ export const AdminDashboard = () => {
       </div>
 
       {/* --- Section 3: Assignment List --- */}
-      
       <div className="bg-white p-8 rounded-xl shadow-2xl border-t-4 border-blue-500">
         <h2 className="text-2xl font-bold mb-4 border-b pb-2 text-gray-800">Assignment List ({assignments.length})</h2>
         {assignments.length === 0 ? (
