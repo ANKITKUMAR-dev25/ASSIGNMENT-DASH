@@ -166,7 +166,7 @@ assignment-dashboard/
 | **Student Dashboard** | Displays pending, completed, and graded assignments |
 | **Admin Dashboard**   | Displays submission analytics and grading interface |
 
-*(Add your screenshots in `/src/assets/` and embed them here for a complete look!)*
+
 
 ---
 
@@ -200,15 +200,13 @@ Pull requests are welcome!
 ## 👨‍💻 **Author**
 
 **[Your Name]**
-📧 [[your.email@example.com](mailto:your.email@example.com)]
-🌐 [Portfolio](https://yourportfolio.com)
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-💻 [GitHub](https://github.com/yourusername)
+📧 [[8250136105a@gmail.com]()]
+🔗 [LinkedIn]((https://www.linkedin.com/in/ankit-kumar-b1041122b/))
+💻 [GitHub]((https://github.com/ANKITKUMAR-dev25))
 
 ---
 
 > ✨ *“Assignment Dashboard — where clean design meets smart workflow automation.”*
 
----
 
-Would you like me to create a **matching `banner.png`** (GitHub project cover image, with title and icons) that fits at the top of this README? It’ll make the project look like a polished open-source repo.
+
